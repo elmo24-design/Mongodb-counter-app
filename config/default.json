@@ -1,0 +1,3 @@
+{
+   "mongoURI": "mongodb+srv://elmomahupil:elmo1234@cluster0.ajzqipg.mongodb.net/db_counter?retryWrites=true&w=majority"
+}
